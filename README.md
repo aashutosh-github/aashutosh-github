@@ -2,6 +2,5 @@
 - 👀 I’m interested in web development
 - 🌱 I’ve learnt html , css , javascript
 - 🧧 I'm currently learning Node.js
-- 📫 How to reach me
-- email: aashu.goswami67@gmail.com
 - 😄 Pronouns: he/him
+- 🖐️ I also make a lot of practice projects which i generally push in repos here.
