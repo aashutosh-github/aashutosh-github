@@ -3,4 +3,4 @@
 - 🌱 I’ve learnt html , css , javascript
 - 🧧 I'm currently learning Node.js
 - 😄 Pronouns: he/him
-- 🖐️ I also make a lot of practice projects which i generally push in repos here.
+- 🖐️ I also make some practice projects which i generally push in repos here.
