@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aashutosh vinayak goswami
 - 👀 I’m interested in web development
 - 🌱 I’ve learnt html , css , javascript
-- 🧧 I'm currently learning Node.js
+- 🧧 I'm currently learning backend development
 - 😄 Pronouns: he/him
 - 🖐️ I also make some practice projects which i generally push in repos here.
