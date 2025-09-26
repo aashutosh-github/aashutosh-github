@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m aashutosh vinayak goswami<br>👀 I’m interested in web development<br>🌱 I’ve learnt html , css , javascript<br>🧧 I'm currently learning backend development<br>😄 Pronouns: he/him<br>🖐️ I also make some practice projects which i generally push in repos here.
+👋 Hi, I’m aashutosh vinayak goswami<br>👀 I’m interested in web development<br>🌱 I’ve learnt html , css , javascript<br>🧧 I'm currently learning backend development<br>🖐️ I also make some practice projects which i generally push in repos here.
 
 
 # 💻 Tech Stack:
