@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m aashutosh vinayak goswami<br>I’m interested in generative AI and full stack web development<br>I’ve learnt LangChain, LangGraph, RAG, Graph RAG, Agentic AI and multi-model orchestration pipelines. I am also learning about backend development currently<br>I also make some practice projects which i generally push in repos here.
+Hi, I’m aashutosh vinayak goswami<br>I’m interested in generative AI and full stack web development<br>I’ve learnt LangChain, LangGraph, RAG, Graph RAG, Agentic AI and multi-agent orchestration pipelines. I am also learning about backend development currently<br>I also make some practice projects which i generally push in repos here.
 
 
 ## 🌐 Socials:
